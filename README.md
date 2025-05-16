@@ -1,1 +1,3 @@
-# minha-casa-meu-futuro2025
+# Minha Casa Meu Futuro
+
+Sistema completo pronto para rodar.
